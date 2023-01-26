@@ -1,5 +1,4 @@
 import streamlit as st
-import emoji
 from PIL import Image
 import pandas as pd
 
