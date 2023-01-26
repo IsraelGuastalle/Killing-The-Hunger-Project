@@ -19,7 +19,7 @@ st.set_page_config(
 #============================================
 
 image = Image.open( 'icone.png' )
-st.sidebar.image( image, width=50)
+st.sidebar.image( image, width=40)
 
 #============================================
 
