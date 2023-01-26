@@ -3,10 +3,10 @@
 # Libraries
 #============================================
 
+import inflection
 from haversine import haversine
 import plotly.express as px
 import plotly.graph_objects as go
-import inflection
 
 #============================================
 # Bibliotecas necessárias
