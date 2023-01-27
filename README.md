@@ -89,39 +89,24 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4
 Cada visão é representada pelo seguinte conjunto de métricas:
 
 ## 1. Visão Geral (Main Page):
-  1. Pedidos por dia.
-  2. Porcentagem de pedidos por condições de Trânsito.
-  3. Quantidade de pedidos por tipo e por cidade.
-  4. Pedidos por semana.
-  5. Quantidade de pedidos por tipo de entrega.
-  6. Quantidade de pedidos por condições de trânsito e tipo de cidade
+  1. Quantidade de Restaurantes Cadastrados.
+  2. Quantidade de Países Cadastrados.
+  3. Quantidade de Cidades Cadastradas.
+  4. Quantidade de Avaliações Feitas na Plataforma.
+  5. Quantidade de Tipos de Culinárias Oferecidas.
+  6. Localização dos Restaurantes Agrupados por Região em um Mapa. 
 
 ## 2. Visão Países (Countries):
-  1. Quantidade de pedidos únicos.
-  2. Distância média percorrida.
-  3. Tempo médio de entrega durante festival e dias normais.
-  4. Desvio Padrão do tempo de entrega durante festivais e dias normais.
-  5. Tempo de entrega médio por cidade.
-  6. Distribuição do tempo médio de entrega por cidade.
-  7. Tempo médio de entrega por tipo de pedido.
+  1. Quantidade de Restaurantes Registrados por País.
+  2. Quantidade de Cidades Registradas por País.
+  3. Média de Avaliações Realizadas por País.
+  4. Média de Preço de um Prato para Duas Pessoas por País.
 
 ## 3. Visão Cidades (Cities):
-  1. Idade do entregador mais velho e do mais novo.
-  2. Avaliação do melhor e do pior veículo.
-  3. Avaliação média por entregador.
-  4. Avaliação média por condições de trânsito.
-  5. Avaliação média por condições climáticas.
-  6. Tempo médio do entregador mais rápido.
-  7. Tempo médio do entregador mais rápido por cidade.
+  1.
 
 ## 4. Visão Culinária (Cuisines):
-  1. Idade do entregador mais velho e do mais novo.
-  2. Avaliação do melhor e do pior veículo.
-  3. Avaliação média por entregador.
-  4. Avaliação média por condições de trânsito.
-  5. Avaliação média por condições climáticas.
-  6. Tempo médio do entregador mais rápido.
-  7. Tempo médio do entregador mais rápido por cidade.
+  1. 
 
 # 4. Top 3 Insights de dados
 
