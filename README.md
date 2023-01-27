@@ -76,6 +76,7 @@ O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exib
 1. A análise foi realizada com dados de restaurantes cadastrados em diversos países.
 2. Marketplace foi o modelo de negócio assumido.
 3. As 4 principais visões do negócio foram: Visão Geral (Main Page), Visão Países (Countries), Visão Cidades (Cities) e Visão Culinária (Cuisines).
+4. Caso uma pergunta do CEO possua dois ou mais registros iguais como resposta, será apresentado o restaurante cadastrado mais antigo.
 
 # 3. Estratégia da Solução
 
