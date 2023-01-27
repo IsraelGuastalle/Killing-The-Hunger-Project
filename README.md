@@ -10,59 +10,59 @@ Para acompanhar o crescimento desses negócios, o CEO gostaria de ver as seguint
 
 ## Métricas Gerais:
 
-1. Quantos restaurantes únicos estão registrados?
-2. Quantos países únicos estão registrados?
-3. Quantas cidades únicas estão registradas?
-4. Qual o total de avaliações feitas?
-5. Qual o total de tipos de culinária registrados?
+01. Quantos restaurantes únicos estão registrados?
+02. Quantos países únicos estão registrados?
+03. Quantas cidades únicas estão registradas?
+04. Qual o total de avaliações feitas?
+05. Qual o total de tipos de culinária registrados?
 
 ## Métricas por País:
 
-1. Qual o nome do país que possui mais cidades registradas?
-2. Qual o nome do país que possui mais restaurantes registrados?
-3. Qual o nome do país que possui mais restaurantes com o nível de preço igual a 4 registrados?
-4. Qual o nome do país que possui a maior quantidade de tipos de culinária distintos?
-5. Qual o nome do país que possui a maior quantidade de avaliações feitas?
-6. Qual o nome do país que possui a maior quantidade de restaurantes que fazem entrega?
-7. Qual o nome do país que possui a maior quantidade de restaurantes que aceitam reservas?
-8. Qual o nome do país que possui, na média, a maior quantidade de avaliações registrada?
-9. Qual o nome do país que possui, na média, a maior nota média registrada?
+01. Qual o nome do país que possui mais cidades registradas?
+02. Qual o nome do país que possui mais restaurantes registrados?
+03. Qual o nome do país que possui mais restaurantes com o nível de preço igual a 4 registrados?
+04. Qual o nome do país que possui a maior quantidade de tipos de culinária distintos?
+05. Qual o nome do país que possui a maior quantidade de avaliações feitas?
+06. Qual o nome do país que possui a maior quantidade de restaurantes que fazem entrega?
+07. Qual o nome do país que possui a maior quantidade de restaurantes que aceitam reservas?
+08. Qual o nome do país que possui, na média, a maior quantidade de avaliações registrada?
+09. Qual o nome do país que possui, na média, a maior nota média registrada?
 10. Qual o nome do país que possui, na média, a menor nota média registrada?
 11. Qual a média de preço de um prato para dois por país?
 
 ## Métricas por Cidade:
 
-1. Qual o nome da cidade que possui mais restaurantes registrados?
-2. Qual o nome da cidade que possui mais restaurantes com nota média acima de 4?
-3. Qual o nome da cidade que possui mais restaurantes com nota média abaixo de 2.5?
-4. Qual o nome da cidade que possui o maior valor médio de um prato para dois?
-5. Qual o nome da cidade que possui a maior quantidade de tipos de culinária distintas?
-6. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem reservas?
-7. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem entregas?
-8. Qual o nome da cidade que possui a maior quantidade de restaurantes que aceitam pedidos online?
+01. Qual o nome da cidade que possui mais restaurantes registrados?
+02. Qual o nome da cidade que possui mais restaurantes com nota média acima de 4?
+03. Qual o nome da cidade que possui mais restaurantes com nota média abaixo de 2.5?
+04. Qual o nome da cidade que possui o maior valor médio de um prato para dois?
+05. Qual o nome da cidade que possui a maior quantidade de tipos de culinária distintas?
+06. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem reservas?
+07. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem entregas?
+08. Qual o nome da cidade que possui a maior quantidade de restaurantes que aceitam pedidos online?
 
 ## Métricas por Restaurante:
 
-1. Qual o nome do restaurante que possui a maior quantidade de avaliações?
-2. Qual o nome do restaurante com a maior nota média?
-3. Qual o nome do restaurante que possui o maior valor de uma prato para duas pessoas?
-4. Qual o nome do restaurante de tipo de culinária brasileira que possui a menor média de avaliação?
-5. Qual o nome do restaurante de tipo de culinária brasileira, e que é do Brasil, que possui a maior média de avaliação?
-6. Os restaurantes que aceitam pedido online são também, na média, os restaurantes que mais possuem avaliações registradas?
-7. Os restaurantes que fazem reservas são também, na média, os restaurantes que possuem o maior valor médio de um prato para duas pessoas?
-8. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias americanas (BBQ)?
+01. Qual o nome do restaurante que possui a maior quantidade de avaliações?
+02. Qual o nome do restaurante com a maior nota média?
+03. Qual o nome do restaurante que possui o maior valor de uma prato para duas pessoas?
+04. Qual o nome do restaurante de tipo de culinária brasileira que possui a menor média de avaliação?
+05. Qual o nome do restaurante de tipo de culinária brasileira, e que é do Brasil, que possui a maior média de avaliação?
+06. Os restaurantes que aceitam pedido online são também, na média, os restaurantes que mais possuem avaliações registradas?
+07. Os restaurantes que fazem reservas são também, na média, os restaurantes que possuem o maior valor médio de um prato para duas pessoas?
+08. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias americanas (BBQ)?
 
 ## Métricas por Tipo de Culinária:
 
-1. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a maior média de avaliação?
-2. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a menor média de avaliação?
-3. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do restaurante com a maior média de avaliação?
-4. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do restaurante com a menor média de avaliação?
-5. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do restaurante com a maior média de avaliação?
-6. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do restaurante com a menor média de avaliação?
-7. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do restaurante com a maior média de avaliação?
-8. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do restaurante com a menor média de avaliação?
-9. Dos restaurantes que possuem o tipo de culinária caseira, qual o nome do restaurante com a maior média de avaliação?
+01. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a maior média de avaliação?
+02. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a menor média de avaliação?
+03. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do restaurante com a maior média de avaliação?
+04. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do restaurante com a menor média de avaliação?
+05. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do restaurante com a maior média de avaliação?
+06. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do restaurante com a menor média de avaliação?
+07. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do restaurante com a maior média de avaliação?
+08. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do restaurante com a menor média de avaliação?
+09. Dos restaurantes que possuem o tipo de culinária caseira, qual o nome do restaurante com a maior média de avaliação?
 10. Dos restaurantes que possuem o tipo de culinária caseira, qual o nome do restaurante com a menor média de avaliação?
 11. Qual o tipo de culinária que possui o maior valor médio de um prato para duas pessoas?
 12. Qual o tipo de culinária que possui a maior nota média?
