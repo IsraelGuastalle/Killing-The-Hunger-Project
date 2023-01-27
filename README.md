@@ -4,7 +4,7 @@ A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core busine
 
 O CEO da empresa foi recém contratado e precisa entender melhor o negócio para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados da empresa e que sejam gerados dashboards.
 
-O CEO também pediu que fosse gerado um dashboard que permitisse que ele visualizasse as principais informações das perguntas que ele fez. Ele precisa dessas informações o mais rápido possível, uma vez que ele também é novo na empresa e irá utilizá-las para entender melhor a empresa Fome Zero para conseguir tomar decisões mais assertivas. Seu trabalho é utilizar os dados que a empresa Fome Zero possui e responder as perguntas feitas do CEO e criar o dashboard solicitado.
+O CEO também pediu que fosse gerado um dashboard que permitisse que ele visualizasse as principais informações das perguntas que fez. Ele precisa dessas informações o mais rápido possível, uma vez que ele também é novo na empresa e irá utilizá-las para entender melhor a empresa Fome Zero para conseguir tomar decisões mais assertivas. Seu trabalho é utilizar os dados que a empresa Fome Zero possui e responder as perguntas feitas do CEO e criar o dashboard solicitado.
 
 Para acompanhar o crescimento desses negócios, o CEO gostaria de ver as seguintes métricas de crescimento:
 
@@ -50,8 +50,7 @@ Para acompanhar o crescimento desses negócios, o CEO gostaria de ver as seguint
 5. Qual o nome do restaurante de tipo de culinária brasileira, e que é do Brasil, que possui a maior média de avaliação?
 6. Os restaurantes que aceitam pedido online são também, na média, os restaurantes que mais possuem avaliações registradas?
 7. Os restaurantes que fazem reservas são também, na média, os restaurantes que possuem o maior valor médio de um prato para duas pessoas?
-8. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias
-americanas (BBQ)?
+8. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias americanas (BBQ)?
 
 ## Métricas por Tipo de Culinária:
 
@@ -73,18 +72,19 @@ O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exib
 
 # 2. Premissas assumidas para a Análise
 
-1. A análise foi realizada com dados de restaurantes cadastrados em diversos países.
-2. Marketplace foi o modelo de negócio assumido.
-3. As 4 principais visões do negócio foram: Visão Geral (Main Page), Visão Países (Countries), Visão Cidades (Cities) e Visão Culinária (Cuisines).
-4. Caso uma pergunta do CEO possua dois ou mais registros iguais como resposta, será apresentado o restaurante cadastrado mais antigo.
+1. Marketplace foi o modelo de negócio assumido.
+2. A análise foi realizada com dados de restaurantes cadastrados em diversos países.
+3. Caso uma pergunta do CEO possua dois ou mais registros iguais como resposta, será apresentado o restaurante cadastrado mais antigo.
+4. As 4 principais visões do negócio foram: Visão Geral (Main Page), Visão Países (Countries), Visão Cidades (Cities) e Visão Culinária (Cuisines).
 
 # 3. Estratégia da Solução
 
-O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3 principais visões do modelo de negócio da empresa:
+O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4 principais visões do modelo de negócio da empresa:
 
-1. Visão do crescimento da empresa
-2. Visão do crescimento dos restaurantes
-3. Visão do crescimento dos entregadores
+1. Visão Geral (Main Page)
+2. Visão Países (Countries)
+3. Visão Cidades (Cities)
+4. Visão Culinária (Cuisines)
 
 Cada visão é representada pelo seguinte conjunto de métricas:
 
