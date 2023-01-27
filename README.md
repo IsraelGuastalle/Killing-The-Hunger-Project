@@ -121,9 +121,9 @@ Cada visão é representada pelo seguinte conjunto de métricas:
 
 # 4. Top 3 Insights de dados
 
-1. A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dias sequenciais.
-2. As cidades do tipo Semi-Urban não possuem condições baixas de trânsito.
-3. As maiores variações no tempo de entrega, acontecem durante o clima ensolarado. 
+1. Restaurantes Top 20 de Culinária Brasileira possuem uma quantidade menor de avaliações se comparado as demais culinárias.
+2. A maioria dos Restaurantes Cadastrados estão concentrados na região da África do Sul e Reino Unido.
+3. A média de preço de um prato para duas pessoas na Indonésia e Austrália é muito superior aos demais países podendo representar outliers.
 
 # 5. O Produto Final do Projeto
 
