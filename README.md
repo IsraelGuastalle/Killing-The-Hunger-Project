@@ -88,7 +88,7 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4
 
 Cada visão é representada pelo seguinte conjunto de métricas:
 
-## 1. Visão Geral (Main Page):
+## 3.1. Visão Geral (Main Page):
   1. Quantidade de Restaurantes Cadastrados.
   2. Quantidade de Países Cadastrados.
   3. Quantidade de Cidades Cadastradas.
@@ -96,19 +96,19 @@ Cada visão é representada pelo seguinte conjunto de métricas:
   5. Quantidade de Tipos de Culinárias Oferecidas.
   6. Localização dos Restaurantes Agrupados por Região em um Mapa. 
 
-## 2. Visão Países (Countries):
+## 3.2. Visão Países (Countries):
   1. Quantidade de Restaurantes Registrados por País.
   2. Quantidade de Cidades Registradas por País.
   3. Média de Avaliações Realizadas por País.
   4. Média de Preço de um Prato para Duas Pessoas por País.
 
-## 3. Visão Cidades (Cities):
+## 3.3. Visão Cidades (Cities):
   1. Top 10 Cidades com mais Restaurantes na Base de Dados (Segmentado por País).
   2. Top 7 Cidades com Restaurantes que possuem Média de Avaliação Acima de 4 (Segmentado por País).
   3. Top 7 Cidades com Restaurantes que possuem Média de Avaliação abaixo de 2.5 (Segmentado por País).
   4. Top 10 Cidades com Restaurantes com mais Tipos de Culinária Distintos na Base de Dados (Segmentado por País).
 
-## 4. Visão Culinária (Cuisines):
+## 3.4. Visão Culinária (Cuisines):
   1. Nome do Melhor Restaurante de Culinária Italiana com sua respectiva Nota de Avaliação Média.
   2. Nome do Melhor Restaurante de Culinária Americana com sua respectiva Nota de Avaliação Média.
   3. Nome do Melhor Restaurante de Culinária Árane com sua respectiva Nota de Avaliação Média.
