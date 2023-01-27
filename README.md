@@ -103,7 +103,9 @@ Cada visão é representada pelo seguinte conjunto de métricas:
   4. Média de Preço de um Prato para Duas Pessoas por País.
 
 ## 3. Visão Cidades (Cities):
-  1.
+  1. Top 10 Cidades com mais Restaurantes na Base de Dados (Segmentado por País).
+  2. Top 7 Cidades com Restaurantes que possuem Média de Avaliação Acima de 4 (Segmentado por País).
+  3. Top 7 Cidades com Restaurantes que possuem Média de Avaliação abaixo de 2.5 (Segmentado por País).
 
 ## 4. Visão Culinária (Cuisines):
   1. 
