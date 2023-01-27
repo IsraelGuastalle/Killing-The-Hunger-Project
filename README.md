@@ -73,9 +73,9 @@ O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exib
 
 # 2. Premissas assumidas para a Análise
 
-1. A análise foi realizada com dados entre 11/02/2022 e 06/04/2022.
+1. A análise foi realizada com dados de restaurantes cadastrados em diversos países.
 2. Marketplace foi o modelo de negócio assumido.
-3. As 3 principais visões do negócio foram: Visão transação de pedidos, visão restaurante e visão entregadores.
+3. As 4 principais visões do negócio foram: Visão Geral (Main Page), Visão Países (Countries), Visão Cidades (Cities) e Visão Culinária (Cuisines).
 
 # 3. Estratégia da Solução
 
