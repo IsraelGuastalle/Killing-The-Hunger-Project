@@ -68,8 +68,6 @@ Para acompanhar o crescimento desses negócios, o CEO gostaria de ver as seguint
 12. Qual o tipo de culinária que possui a maior nota média?
 13. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos online e fazem entregas?
 
-O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
-
 # 2. Premissas assumidas para a Análise
 
 1. Marketplace foi o modelo de negócio assumido.
@@ -122,8 +120,8 @@ Cada visão é representada pelo seguinte conjunto de métricas:
 # 4. Top 3 Insights de dados
 
 1. Restaurantes Top 20 de Culinária Brasileira possuem uma quantidade menor de avaliações se comparado as demais culinárias.
-2. A maioria dos Restaurantes Cadastrados estão concentrados na região da África do Sul e Reino Unido.
-3. A média de preço de um prato para duas pessoas na Indonésia e Austrália é muito superior aos demais países podendo representar outliers.
+2. A maioria dos Restaurantes Cadastrados estão concentrados nas regiões da África do Sul e Reino Unido.
+3. A média de preço de um prato para duas pessoas cadastrados na Indonésia e Austrália é muito superior aos demais países podendo representar outliers.
 
 # 5. O Produto Final do Projeto
 
@@ -135,7 +133,7 @@ O painel pode ser acessado através desse link: https://israelguastalle-projects
 
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO. 
 
-Da visão empresa (Visão Tática), podemos concluir que o número de pedidos cresceu entrea semana 06 e a semana 13 do ano de 2022.
+Da Visão Cidades (Cities), podemos concluir que o maioria das cidades que cadastram um alto número restaurantes estão concentradas no país Índia.
 
 # 7. Próximos passos
 
