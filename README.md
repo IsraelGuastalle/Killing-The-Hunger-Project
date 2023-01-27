@@ -106,9 +106,18 @@ Cada visão é representada pelo seguinte conjunto de métricas:
   1. Top 10 Cidades com mais Restaurantes na Base de Dados (Segmentado por País).
   2. Top 7 Cidades com Restaurantes que possuem Média de Avaliação Acima de 4 (Segmentado por País).
   3. Top 7 Cidades com Restaurantes que possuem Média de Avaliação abaixo de 2.5 (Segmentado por País).
+  4. Top 10 Cidades com Restaurantes com mais Tipos de Culinária Distintos na Base de Dados (Segmentado por País).
 
 ## 4. Visão Culinária (Cuisines):
-  1. 
+  1. Nome do Melhor Restaurante de Culinária Italiana com sua respectiva Nota de Avaliação Média.
+  2. Nome do Melhor Restaurante de Culinária Americana com sua respectiva Nota de Avaliação Média.
+  3. Nome do Melhor Restaurante de Culinária Árane com sua respectiva Nota de Avaliação Média.
+  4. Nome do Melhor Restaurante de Culinária Japonesa com sua respectiva Nota de Avaliação Média.
+  5. Nome do Melhor Restaurante de Culinária Brasileira com sua respectiva Nota de Avaliação Média.
+  6. Nome do Melhor Restaurante de Culinária Chinesa com sua respectiva Nota de Avaliação Média.
+  7. Detalhes dos Top 20 Restaurantes mais bem avaliados (Segmentado por País e Culinária).
+  8. Top 10 Melhores Tipo de Culinária (Segmentado por País).
+  9. Top 10 Melhores Piores de Culinária (Segmentado por País).
 
 # 4. Top 3 Insights de dados
 
